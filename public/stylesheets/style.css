@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: #DAA520;
+}
+
+
+#div_canvas {
+    width: 500px;
+    margin: 0 auto;
+}
+
+a {
+    color: #00B7FF;
+}
